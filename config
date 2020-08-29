@@ -1,0 +1,8 @@
+# This is for /home/$yourusername/.ssh/config
+# make sure change IP
+Host web02
+        Hostname 3.81.38.3
+        User ubuntu
+Host web01
+        Hostname 3.88.59.86
+        User ubuntu
