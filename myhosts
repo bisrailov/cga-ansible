@@ -1,6 +1,6 @@
 [webservers]
-web01
-web02
+dev
+prod
 
 [admin]
 admin01
